@@ -93,6 +93,6 @@ if __name__ == '__main__':
     ll.remove_at(2)
     ll.print()
 
-    ll.insert_values([45,7,12,567,99])
+    ll.insert_values([45,7,12,567,99,100])
     ll.insert_at_end(67)
     ll.print()
